@@ -3,7 +3,7 @@ Probando Github
 
 Hola, este es el curso de Selenium 
 
-Estamos trabajando con Git.
+Estamos trabajando con Git y Sourcetree.
 
 Saludos.
 
